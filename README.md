@@ -41,7 +41,3 @@ I also work on projects using C#, Python and SQL.
 📍 Waregem, Belgium
 
 📧 Email: spidi8986@gmail.com
-
----
-
-⭐ Thanks for visiting my profile!
