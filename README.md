@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vlad
+#Vladyslav Marchyk
 
 I'm 18 years old and I am a student at VTI Waregem.
 I study ICT and I am interested in programming, games and technology.
