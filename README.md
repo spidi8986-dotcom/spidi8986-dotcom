@@ -3,15 +3,15 @@
 I'm 18 years old and I am a student at VTI Waregem.
 I study ICT and I am interested in programming, games and technology.
 
-## 🎓 Education
+## Education
 
-🏫 **VTI Waregem**
+ **VTI Waregem**
 
-💻 **Course:** Application and Data Management
+ **Course:** Application and Data Management
 
 I am learning different programming languages and working on different projects at school.
 
-## 💻 Skills
+##  Skills
 
 I am learning and using:
 
@@ -22,21 +22,21 @@ I am learning and using:
 - CSS
 - JavaScript
 
-## 🚀 Projects
+##  Projects
 
-### 🎮 UNO Game
+###  UNO Game
 
 An UNO game that I am developing as a school project.
 
-### 🌐 Web Projects
+###  Web Projects
 
 I create different websites and small projects using HTML, CSS and JavaScript.
 
-### 💻 Programming Projects
+###  Programming Projects
 
 I also work on projects using C#, Python and SQL.
 
-## 📫 Contact
+##  Contact
 
 📍 Waregem, Belgium
 
