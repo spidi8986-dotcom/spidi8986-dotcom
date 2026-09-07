@@ -21,7 +21,6 @@ I am learning and using:
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub
 
 ## 🚀 Projects
 
@@ -41,9 +40,7 @@ I also work on projects using C#, Python and SQL.
 
 📍 Waregem, Belgium
 
-📧 Email: your-email-here
-
-💬 GitHub: @your-github-username
+📧 Email: spidi8986@gmail.com
 
 ---
 
