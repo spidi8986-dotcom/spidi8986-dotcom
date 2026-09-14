@@ -1,8 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Vladyslav Marchyk
 
-## Getting Started
+I'm 18 years old and I am a student at VTI Waregem.
+I study ICT and I am interested in programming, games and technology.
 
-First, run the development server:
+## Education
 
-```bash
-npm run dev
+ **VTI Waregem**
+
+ **Course:** Application and Data Management
+
+I am learning different programming languages and working on different projects at school.
+
+##  Skills
+
+I am learning and using:
+
+- C#
+- SQL
+- Python
+- HTML
+- CSS
+- JavaScript
+
+##  Projects
+
+###  UNO Game
+
+An UNO game that I am developing as a school project.
+
+###  Web Projects
+
+I create different websites and small projects using HTML, CSS and JavaScript.
+
+###  Programming Projects
+
+I also work on projects using C#, Python and SQL.
+
+##  Contact
+
+📍 Waregem, Belgium
+
+📧 Email: spidi8986@gmail.com
+>>>>>>> 906c48409823d5983bcea14775bf4ab7d3131b24
